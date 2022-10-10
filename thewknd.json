@@ -19,7 +19,8 @@
         "duration_ms": 260253,
         "time_signature": 4,
         "name": "Die For You",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 88
     },
     {
         "danceability": 0.735,
@@ -41,7 +42,8 @@
         "duration_ms": 188918,
         "time_signature": 4,
         "name": "Sacrifice",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 80
     },
     {
         "danceability": 0.698,
@@ -63,7 +65,8 @@
         "duration_ms": 339023,
         "time_signature": 4,
         "name": "Take My Breath",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 74
     },
     {
         "danceability": 0.514,
@@ -85,7 +88,8 @@
         "duration_ms": 200040,
         "time_signature": 4,
         "name": "Blinding Lights",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 91
     },
     {
         "danceability": 0.667,
@@ -107,7 +111,8 @@
         "duration_ms": 237522,
         "time_signature": 4,
         "name": "In Your Eyes",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 53
     },
     {
         "danceability": 0.684,
@@ -129,7 +134,8 @@
         "duration_ms": 215627,
         "time_signature": 4,
         "name": "Save Your Tears",
-        "release_date": "2020-04-03"
+        "release_date": "2020-04-03",
+        "popularity": 58
     },
     {
         "danceability": 0.702,
@@ -151,7 +157,8 @@
         "duration_ms": 199111,
         "time_signature": 4,
         "name": "Is There Someone Else?",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 83
     },
     {
         "danceability": 0.324,
@@ -173,7 +180,8 @@
         "duration_ms": 241067,
         "time_signature": 4,
         "name": "I Was Never There",
-        "release_date": "2018-03-30"
+        "release_date": "2018-03-30",
+        "popularity": 0
     },
     {
         "danceability": 0.638,
@@ -195,7 +203,8 @@
         "duration_ms": 111640,
         "time_signature": 4,
         "name": "Stargirl Interlude",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 83
     },
     {
         "danceability": 0.535,
@@ -217,7 +226,8 @@
         "duration_ms": 211814,
         "time_signature": 4,
         "name": "Less Than Zero",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 78
     },
     {
         "danceability": 0.608,
@@ -239,7 +249,8 @@
         "duration_ms": 175072,
         "time_signature": 3,
         "name": "Best Friends - Remix",
-        "release_date": "2022-08-05"
+        "release_date": "2022-08-05",
+        "popularity": 71
     },
     {
         "danceability": 0.687,
@@ -261,7 +272,8 @@
         "duration_ms": 193507,
         "time_signature": 4,
         "name": "One Right Now (with The Weeknd)",
-        "release_date": "2021-11-05"
+        "release_date": "2021-11-05",
+        "popularity": 81
     },
     {
         "danceability": 0.679,
@@ -283,7 +295,8 @@
         "duration_ms": 230453,
         "time_signature": 4,
         "name": "Starboy",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 89
     },
     {
         "danceability": 0.863,
@@ -305,7 +318,8 @@
         "duration_ms": 217766,
         "time_signature": 4,
         "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
-        "release_date": "2022-07-22"
+        "release_date": "2022-07-22",
+        "popularity": 62
     },
     {
         "danceability": 0.372,
@@ -327,7 +341,8 @@
         "duration_ms": 348853,
         "time_signature": 4,
         "name": "Acquainted",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 76
     },
     {
         "danceability": 0.318,
@@ -349,7 +364,8 @@
         "duration_ms": 198222,
         "time_signature": 3,
         "name": "Starry Eyes - MIKE DEAN Remix",
-        "release_date": "2022-07-01"
+        "release_date": "2022-07-01",
+        "popularity": 56
     },
     {
         "danceability": 0.65,
@@ -371,7 +387,8 @@
         "duration_ms": 214194,
         "time_signature": 4,
         "name": "Out of Time",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 83
     },
     {
         "danceability": 0.28,
@@ -393,7 +410,8 @@
         "duration_ms": 96240,
         "time_signature": 4,
         "name": "Dawn FM",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 64
     },
     {
         "danceability": 0.728,
@@ -415,7 +433,8 @@
         "duration_ms": 212166,
         "time_signature": 4,
         "name": "Gasoline",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 73
     },
     {
         "danceability": 0.805,
@@ -437,7 +456,8 @@
         "duration_ms": 214215,
         "time_signature": 4,
         "name": "How Do I Make You Love Me?",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 73
     },
     {
         "danceability": 0.447,
@@ -459,7 +479,8 @@
         "duration_ms": 96232,
         "time_signature": 3,
         "name": "A Tale By Quincy",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 63
     },
     {
         "danceability": 0.469,
@@ -481,7 +502,8 @@
         "duration_ms": 209778,
         "time_signature": 4,
         "name": "Here We Go… Again (feat. Tyler, the Creator)",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 70
     },
     {
         "danceability": 0.737,
@@ -503,7 +525,8 @@
         "duration_ms": 163504,
         "time_signature": 4,
         "name": "Best Friends",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 71
     },
     {
         "danceability": 0.309,
@@ -525,7 +548,8 @@
         "duration_ms": 148000,
         "time_signature": 4,
         "name": "Starry Eyes",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 68
     },
     {
         "danceability": 0.447,
@@ -547,7 +571,8 @@
         "duration_ms": 167256,
         "time_signature": 4,
         "name": "Every Angel is Terrifying",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 62
     },
     {
         "danceability": 0.767,
@@ -569,7 +594,8 @@
         "duration_ms": 205469,
         "time_signature": 4,
         "name": "Don’t Break My Heart",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 68
     },
     {
         "danceability": 0.736,
@@ -591,7 +617,8 @@
         "duration_ms": 263642,
         "time_signature": 4,
         "name": "I Heard You’re Married (feat. Lil Wayne)",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 72
     },
     {
         "danceability": 0.394,
@@ -613,7 +640,8 @@
         "duration_ms": 179580,
         "time_signature": 4,
         "name": "Phantom Regret by Jim",
-        "release_date": "2022-01-06"
+        "release_date": "2022-01-06",
+        "popularity": 61
     },
     {
         "danceability": 0.774,
@@ -635,7 +663,8 @@
         "duration_ms": 238033,
         "time_signature": 4,
         "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
-        "release_date": "2022-01-07"
+        "release_date": "2022-01-07",
+        "popularity": 13
     },
     {
         "danceability": 0.542,
@@ -657,7 +686,8 @@
         "duration_ms": 234000,
         "time_signature": 4,
         "name": "Moth To A Flame (with The Weeknd)",
-        "release_date": "2022-01-07"
+        "release_date": "2022-01-07",
+        "popularity": 8
     },
     {
         "danceability": 0.748,
@@ -679,7 +709,8 @@
         "duration_ms": 220196,
         "time_signature": 4,
         "name": "Take My Breath - Single Version",
-        "release_date": "2021-08-06"
+        "release_date": "2021-08-06",
+        "popularity": 74
     },
     {
         "danceability": 0.542,
@@ -701,7 +732,8 @@
         "duration_ms": 234000,
         "time_signature": 4,
         "name": "Moth To A Flame (with The Weeknd)",
-        "release_date": "2021-10-22"
+        "release_date": "2021-10-22",
+        "popularity": 32
     },
     {
         "danceability": 0.742,
@@ -723,7 +755,8 @@
         "duration_ms": 275556,
         "time_signature": 4,
         "name": "Out of Time - KAYTRANADA Remix",
-        "release_date": "2022-04-22"
+        "release_date": "2022-04-22",
+        "popularity": 58
     },
     {
         "danceability": 0.65,
@@ -745,7 +778,8 @@
         "duration_ms": 191014,
         "time_signature": 4,
         "name": "Save Your Tears (with Ariana Grande) (Remix)",
-        "release_date": "2021-04-23"
+        "release_date": "2021-04-23",
+        "popularity": 84
     },
     {
         "danceability": 0.797,
@@ -767,7 +801,8 @@
         "duration_ms": 206629,
         "time_signature": 4,
         "name": "Better Believe",
-        "release_date": "2021-07-22"
+        "release_date": "2021-07-22",
+        "popularity": 59
     },
     {
         "danceability": 0.585,
@@ -789,7 +824,8 @@
         "duration_ms": 242253,
         "time_signature": 4,
         "name": "The Hills",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 88
     },
     {
         "danceability": 0.705,
@@ -811,7 +847,8 @@
         "duration_ms": 213520,
         "time_signature": 4,
         "name": "Can't Feel My Face",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 82
     },
     {
         "danceability": 0.773,
@@ -833,7 +870,8 @@
         "duration_ms": 269187,
         "time_signature": 4,
         "name": "I Feel It Coming",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 81
     },
     {
         "danceability": 0.659,
@@ -855,7 +893,8 @@
         "duration_ms": 252227,
         "time_signature": 3,
         "name": "Earned It (Fifty Shades Of Grey) - From The \"Fifty Shades Of Grey\" Soundtrack",
-        "release_date": "2014-12-23"
+        "release_date": "2014-12-23",
+        "popularity": 78
     },
     {
         "danceability": 0.65,
@@ -877,7 +916,8 @@
         "duration_ms": 405213,
         "time_signature": 4,
         "name": "House Of Balloons / Glass Table Girls",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 70
     },
     {
         "danceability": 0.685,
@@ -899,7 +939,8 @@
         "duration_ms": 215627,
         "time_signature": 4,
         "name": "Save Your Tears",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 53
     },
     {
         "danceability": 0.513,
@@ -921,7 +962,8 @@
         "duration_ms": 200046,
         "time_signature": 4,
         "name": "Blinding Lights",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 52
     },
     {
         "danceability": 0.709,
@@ -943,7 +985,8 @@
         "duration_ms": 213525,
         "time_signature": 4,
         "name": "Can't Feel My Face",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 54
     },
     {
         "danceability": 0.773,
@@ -965,7 +1008,8 @@
         "duration_ms": 269177,
         "time_signature": 4,
         "name": "I Feel It Coming",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 53
     },
     {
         "danceability": 0.676,
@@ -987,7 +1031,8 @@
         "duration_ms": 230461,
         "time_signature": 4,
         "name": "Starboy",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 53
     },
     {
         "danceability": 0.732,
@@ -1009,7 +1054,8 @@
         "duration_ms": 211421,
         "time_signature": 4,
         "name": "Pray For Me",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 77
     },
     {
         "danceability": 0.538,
@@ -1031,7 +1077,8 @@
         "duration_ms": 198267,
         "time_signature": 4,
         "name": "Heartless",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 51
     },
     {
         "danceability": 0.57,
@@ -1053,7 +1100,8 @@
         "duration_ms": 249109,
         "time_signature": 4,
         "name": "Often",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 54
     },
     {
         "danceability": 0.583,
@@ -1075,7 +1123,8 @@
         "duration_ms": 242291,
         "time_signature": 4,
         "name": "The Hills",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 56
     },
     {
         "danceability": 0.471,
@@ -1097,7 +1146,8 @@
         "duration_ms": 228382,
         "time_signature": 3,
         "name": "Call Out My Name",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 57
     },
     {
         "danceability": 0.602,
@@ -1119,7 +1169,8 @@
         "duration_ms": 260256,
         "time_signature": 4,
         "name": "Die For You",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 65
     },
     {
         "danceability": 0.658,
@@ -1141,7 +1192,8 @@
         "duration_ms": 277724,
         "time_signature": 3,
         "name": "Earned It (Fifty Shades Of Grey)",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 76
     },
     {
         "danceability": 0.468,
@@ -1163,7 +1215,8 @@
         "duration_ms": 236041,
         "time_signature": 4,
         "name": "Love Me Harder",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 53
     },
     {
         "danceability": 0.386,
@@ -1185,7 +1238,8 @@
         "duration_ms": 348883,
         "time_signature": 4,
         "name": "Acquainted",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 49
     },
     {
         "danceability": 0.658,
@@ -1207,7 +1261,8 @@
         "duration_ms": 325234,
         "time_signature": 4,
         "name": "Wicked Games",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 49
     },
     {
         "danceability": 0.663,
@@ -1229,7 +1284,8 @@
         "duration_ms": 315672,
         "time_signature": 4,
         "name": "The Morning",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 47
     },
     {
         "danceability": 0.653,
@@ -1251,7 +1307,8 @@
         "duration_ms": 361025,
         "time_signature": 4,
         "name": "After Hours",
-        "release_date": "2021-02-05"
+        "release_date": "2021-02-05",
+        "popularity": 50
     },
     {
         "danceability": 0.684,
@@ -1273,7 +1330,8 @@
         "duration_ms": 215627,
         "time_signature": 4,
         "name": "Save Your Tears",
-        "release_date": "2020-04-03"
+        "release_date": "2020-04-03",
+        "popularity": 58
     },
     {
         "danceability": 0.514,
@@ -1295,7 +1353,8 @@
         "duration_ms": 200040,
         "time_signature": 4,
         "name": "Blinding Lights",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 91
     },
     {
         "danceability": 0.585,
@@ -1317,7 +1376,8 @@
         "duration_ms": 242253,
         "time_signature": 4,
         "name": "The Hills",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 88
     },
     {
         "danceability": 0.537,
@@ -1339,7 +1399,8 @@
         "duration_ms": 198267,
         "time_signature": 4,
         "name": "Heartless",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 79
     },
     {
         "danceability": 0.667,
@@ -1361,7 +1422,8 @@
         "duration_ms": 237520,
         "time_signature": 4,
         "name": "In Your Eyes",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 79
     },
     {
         "danceability": 0.679,
@@ -1383,7 +1445,8 @@
         "duration_ms": 230453,
         "time_signature": 4,
         "name": "Starboy",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 89
     },
     {
         "danceability": 0.449,
@@ -1405,7 +1468,8 @@
         "duration_ms": 228373,
         "time_signature": 3,
         "name": "Call Out My Name",
-        "release_date": "2018-03-30"
+        "release_date": "2018-03-30",
+        "popularity": 0
     },
     {
         "danceability": 0.664,
@@ -1427,7 +1491,8 @@
         "duration_ms": 361027,
         "time_signature": 4,
         "name": "After Hours",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 80
     },
     {
         "danceability": 0.572,
@@ -1449,7 +1514,8 @@
         "duration_ms": 249040,
         "time_signature": 4,
         "name": "Often",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 82
     },
     {
         "danceability": 0.659,
@@ -1471,7 +1537,8 @@
         "duration_ms": 252227,
         "time_signature": 3,
         "name": "Earned It (Fifty Shades Of Grey) - From The \"Fifty Shades Of Grey\" Soundtrack",
-        "release_date": "2014-12-23"
+        "release_date": "2014-12-23",
+        "popularity": 78
     },
     {
         "danceability": 0.773,
@@ -1493,7 +1560,8 @@
         "duration_ms": 269187,
         "time_signature": 4,
         "name": "I Feel It Coming",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 81
     },
     {
         "danceability": 0.705,
@@ -1515,7 +1583,8 @@
         "duration_ms": 213520,
         "time_signature": 4,
         "name": "Can't Feel My Face",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 82
     },
     {
         "danceability": 0.658,
@@ -1537,7 +1606,8 @@
         "duration_ms": 323747,
         "time_signature": 4,
         "name": "Wicked Games",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 74
     },
     {
         "danceability": 0.706,
@@ -1559,7 +1629,8 @@
         "duration_ms": 218880,
         "time_signature": 4,
         "name": "Reminder",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 75
     },
     {
         "danceability": 0.728,
@@ -1581,7 +1652,8 @@
         "duration_ms": 211440,
         "time_signature": 4,
         "name": "Pray For Me (with Kendrick Lamar)",
-        "release_date": "2018-02-02"
+        "release_date": "2018-02-02",
+        "popularity": 0
     },
     {
         "danceability": 0.504,
@@ -1603,7 +1675,8 @@
         "duration_ms": 191307,
         "time_signature": 4,
         "name": "Scared To Live",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 68
     },
     {
         "danceability": 0.467,
@@ -1625,7 +1698,8 @@
         "duration_ms": 211400,
         "time_signature": 4,
         "name": "Hardest To Love",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 69
     },
     {
         "danceability": 0.218,
@@ -1647,7 +1721,8 @@
         "duration_ms": 250053,
         "time_signature": 4,
         "name": "Alone Again",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 70
     },
     {
         "danceability": 0.638,
@@ -1669,7 +1744,8 @@
         "duration_ms": 239973,
         "time_signature": 4,
         "name": "Too Late",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 69
     },
     {
         "danceability": 0.573,
@@ -1691,7 +1767,8 @@
         "duration_ms": 249213,
         "time_signature": 4,
         "name": "Party Monster",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 76
     },
     {
         "danceability": 0.404,
@@ -1713,7 +1790,8 @@
         "duration_ms": 355960,
         "time_signature": 4,
         "name": "Escape From LA",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 70
     },
     {
         "danceability": 0.375,
@@ -1735,7 +1813,8 @@
         "duration_ms": 283227,
         "time_signature": 4,
         "name": "Faith",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 69
     },
     {
         "danceability": 0.652,
@@ -1757,7 +1836,8 @@
         "duration_ms": 312427,
         "time_signature": 4,
         "name": "The Morning",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 72
     },
     {
         "danceability": 0.55,
@@ -1779,7 +1859,8 @@
         "duration_ms": 247187,
         "time_signature": 4,
         "name": "Snowchild",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 68
     },
     {
         "danceability": 0.505,
@@ -1801,7 +1882,8 @@
         "duration_ms": 235653,
         "time_signature": 3,
         "name": "In The Night",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 76
     },
     {
         "danceability": 0.532,
@@ -1823,7 +1905,8 @@
         "duration_ms": 222307,
         "time_signature": 4,
         "name": "Nothing Compares - Bonus Track",
-        "release_date": "2020-04-03"
+        "release_date": "2020-04-03",
+        "popularity": 60
     },
     {
         "danceability": 0.562,
@@ -1845,7 +1928,8 @@
         "duration_ms": 220293,
         "time_signature": 4,
         "name": "Wasted Times",
-        "release_date": "2018-03-30"
+        "release_date": "2018-03-30",
+        "popularity": 0
     },
     {
         "danceability": 0.716,
@@ -1867,7 +1951,8 @@
         "duration_ms": 144540,
         "time_signature": 4,
         "name": "Missed You - Bonus Track",
-        "release_date": "2020-04-03"
+        "release_date": "2020-04-03",
+        "popularity": 0
     },
     {
         "danceability": 0.466,
@@ -1889,7 +1974,8 @@
         "duration_ms": 221107,
         "time_signature": 4,
         "name": "Try Me",
-        "release_date": "2018-03-30"
+        "release_date": "2018-03-30",
+        "popularity": 0
     },
     {
         "danceability": 0.555,
@@ -1911,7 +1997,8 @@
         "duration_ms": 195813,
         "time_signature": 4,
         "name": "Repeat After Me (Interlude)",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 65
     },
     {
         "danceability": 0.542,
@@ -1933,7 +2020,8 @@
         "duration_ms": 231360,
         "time_signature": 4,
         "name": "Sidewalks",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 73
     },
     {
         "danceability": 0.664,
@@ -1955,7 +2043,8 @@
         "duration_ms": 265600,
         "time_signature": 4,
         "name": "Secrets",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 72
     },
     {
         "danceability": 0.465,
@@ -1977,7 +2066,8 @@
         "duration_ms": 247227,
         "time_signature": 4,
         "name": "High For This",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 72
     },
     {
         "danceability": 0.583,
@@ -1999,7 +2089,8 @@
         "duration_ms": 334333,
         "time_signature": 4,
         "name": "Tell Your Friends",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 71
     },
     {
         "danceability": 0.245,
@@ -2021,7 +2112,8 @@
         "duration_ms": 190173,
         "time_signature": 3,
         "name": "Until I Bleed Out",
-        "release_date": "2020-03-20"
+        "release_date": "2020-03-20",
+        "popularity": 65
     },
     {
         "danceability": 0.484,
@@ -2043,7 +2135,8 @@
         "duration_ms": 230027,
         "time_signature": 4,
         "name": "Hurt You",
-        "release_date": "2018-03-30"
+        "release_date": "2018-03-30",
+        "popularity": 0
     },
     {
         "danceability": 0.517,
@@ -2065,7 +2158,8 @@
         "duration_ms": 220307,
         "time_signature": 4,
         "name": "False Alarm",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 70
     },
     {
         "danceability": 0.772,
@@ -2087,7 +2181,8 @@
         "duration_ms": 237573,
         "time_signature": 4,
         "name": "Six Feet Under",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 69
     },
     {
         "danceability": 0.501,
@@ -2109,7 +2204,8 @@
         "duration_ms": 260640,
         "time_signature": 3,
         "name": "Dark Times",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 64
     },
     {
         "danceability": 0.604,
@@ -2131,7 +2227,8 @@
         "duration_ms": 185689,
         "time_signature": 3,
         "name": "Final Lullaby - Bonus Track",
-        "release_date": "2020-04-03"
+        "release_date": "2020-04-03",
+        "popularity": 0
     },
     {
         "danceability": 0.657,
@@ -2153,7 +2250,8 @@
         "duration_ms": 196360,
         "time_signature": 4,
         "name": "What You Need",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 67
     },
     {
         "danceability": 0.603,
@@ -2175,7 +2273,8 @@
         "duration_ms": 253507,
         "time_signature": 4,
         "name": "Shameless",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 66
     },
     {
         "danceability": 0.404,
@@ -2197,7 +2296,8 @@
         "duration_ms": 170573,
         "time_signature": 4,
         "name": "Privilege",
-        "release_date": "2018-03-30"
+        "release_date": "2018-03-30",
+        "popularity": 68
     },
     {
         "danceability": 0.853,
@@ -2219,7 +2319,8 @@
         "duration_ms": 220173,
         "time_signature": 4,
         "name": "A Lonely Night",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 70
     },
     {
         "danceability": 0.738,
@@ -2241,7 +2342,8 @@
         "duration_ms": 232880,
         "time_signature": 4,
         "name": "Rockin’",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 69
     },
     {
         "danceability": 0.537,
@@ -2263,7 +2365,8 @@
         "duration_ms": 221920,
         "time_signature": 4,
         "name": "Ordinary Life",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 65
     },
     {
         "danceability": 0.671,
@@ -2285,7 +2388,8 @@
         "duration_ms": 197653,
         "time_signature": 4,
         "name": "Attention",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 67
     },
     {
         "danceability": 0.575,
@@ -2307,7 +2411,8 @@
         "duration_ms": 198653,
         "time_signature": 4,
         "name": "Nothing Without You",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 67
     },
     {
         "danceability": 0.467,
@@ -2329,7 +2434,8 @@
         "duration_ms": 321027,
         "time_signature": 4,
         "name": "All I Know",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 64
     },
     {
         "danceability": 0.287,
@@ -2351,7 +2457,8 @@
         "duration_ms": 363640,
         "time_signature": 4,
         "name": "Loft Music",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 60
     },
     {
         "danceability": 0.68,
@@ -2373,7 +2480,8 @@
         "duration_ms": 275493,
         "time_signature": 4,
         "name": "D.D.",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 61
     },
     {
         "danceability": 0.711,
@@ -2395,7 +2503,8 @@
         "duration_ms": 223293,
         "time_signature": 4,
         "name": "Love To Lay",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 63
     },
     {
         "danceability": 0.585,
@@ -2417,7 +2526,8 @@
         "duration_ms": 301595,
         "time_signature": 4,
         "name": "King Of The Fall",
-        "release_date": "2020-09-25"
+        "release_date": "2020-09-25",
+        "popularity": 63
     },
     {
         "danceability": 0.65,
@@ -2439,7 +2549,8 @@
         "duration_ms": 405213,
         "time_signature": 4,
         "name": "House Of Balloons / Glass Table Girls",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 70
     },
     {
         "danceability": 0.551,
@@ -2461,7 +2572,8 @@
         "duration_ms": 274960,
         "time_signature": 4,
         "name": "Prisoner",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 68
     },
     {
         "danceability": 0.571,
@@ -2483,7 +2595,8 @@
         "duration_ms": 214187,
         "time_signature": 4,
         "name": "The Birds Pt. 1",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 59
     },
     {
         "danceability": 0.619,
@@ -2505,7 +2618,8 @@
         "duration_ms": 418507,
         "time_signature": 4,
         "name": "The Zone",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 65
     },
     {
         "danceability": 0.626,
@@ -2527,7 +2641,8 @@
         "duration_ms": 377347,
         "time_signature": 4,
         "name": "Angel",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 64
     },
     {
         "danceability": 0.639,
@@ -2549,7 +2664,8 @@
         "duration_ms": 258453,
         "time_signature": 4,
         "name": "Twenty Eight",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 64
     },
     {
         "danceability": 0.438,
@@ -2571,7 +2687,8 @@
         "duration_ms": 459387,
         "time_signature": 4,
         "name": "The Party & The After Party",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 61
     },
     {
         "danceability": 0.377,
@@ -2593,7 +2710,8 @@
         "duration_ms": 340493,
         "time_signature": 4,
         "name": "As You Are",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 66
     },
     {
         "danceability": 0.641,
@@ -2615,7 +2733,8 @@
         "duration_ms": 286680,
         "time_signature": 4,
         "name": "Valerie",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 61
     },
     {
         "danceability": 0.626,
@@ -2637,7 +2756,8 @@
         "duration_ms": 222667,
         "time_signature": 4,
         "name": "Live For",
-        "release_date": "2013-09-10"
+        "release_date": "2013-09-10",
+        "popularity": 55
     },
     {
         "danceability": 0.581,
@@ -2659,7 +2779,8 @@
         "duration_ms": 223373,
         "time_signature": 4,
         "name": "Real Life",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 61
     },
     {
         "danceability": 0.405,
@@ -2681,7 +2802,8 @@
         "duration_ms": 368720,
         "time_signature": 4,
         "name": "Professional",
-        "release_date": "2013-09-10"
+        "release_date": "2013-09-10",
+        "popularity": 55
     },
     {
         "danceability": 0.666,
@@ -2703,7 +2825,8 @@
         "duration_ms": 281147,
         "time_signature": 4,
         "name": "Losers",
-        "release_date": "2015-08-28"
+        "release_date": "2015-08-28",
+        "popularity": 62
     },
     {
         "danceability": 0.58,
@@ -2725,7 +2848,8 @@
         "duration_ms": 375400,
         "time_signature": 4,
         "name": "Pretty",
-        "release_date": "2013-09-10"
+        "release_date": "2013-09-10",
+        "popularity": 55
     },
     {
         "danceability": 0.644,
@@ -2747,7 +2871,8 @@
         "duration_ms": 267920,
         "time_signature": 4,
         "name": "Love In The Sky",
-        "release_date": "2013-09-10"
+        "release_date": "2013-09-10",
+        "popularity": 55
     },
     {
         "danceability": 0.665,
@@ -2769,7 +2894,8 @@
         "duration_ms": 295453,
         "time_signature": 4,
         "name": "Coming Down",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 59
     },
     {
         "danceability": 0.693,
@@ -2791,7 +2917,8 @@
         "duration_ms": 230547,
         "time_signature": 4,
         "name": "Rolling Stone",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 58
     },
     {
         "danceability": 0.451,
@@ -2813,7 +2940,8 @@
         "duration_ms": 340333,
         "time_signature": 4,
         "name": "The Knowing",
-        "release_date": "2012-11-13"
+        "release_date": "2012-11-13",
+        "popularity": 56
     },
     {
         "danceability": 0.637,
@@ -2835,7 +2963,8 @@
         "duration_ms": 306773,
         "time_signature": 4,
         "name": "Wanderlust",
-        "release_date": "2013-09-10"
+        "release_date": "2013-09-10",
+        "popularity": 55
     },
     {
         "danceability": 0.49,
@@ -2857,7 +2986,8 @@
         "duration_ms": 216123,
         "time_signature": 4,
         "name": "Blinding Lights (with ROSALÍA) - Remix",
-        "release_date": "2020-12-04"
+        "release_date": "2020-12-04",
+        "popularity": 63
     },
     {
         "danceability": 0.606,
@@ -2879,7 +3009,8 @@
         "duration_ms": 256551,
         "time_signature": 4,
         "name": "In Your Eyes (feat. Kenny G) - Remix",
-        "release_date": "2020-10-16"
+        "release_date": "2020-10-16",
+        "popularity": 55
     },
     {
         "danceability": 0.612,
@@ -2901,7 +3032,8 @@
         "duration_ms": 210795,
         "time_signature": 4,
         "name": "Over Now (with The Weeknd)",
-        "release_date": "2020-08-28"
+        "release_date": "2020-08-28",
+        "popularity": 71
     },
     {
         "danceability": 0.524,
@@ -2923,7 +3055,8 @@
         "duration_ms": 222307,
         "time_signature": 4,
         "name": "Nothing Compares - Bonus Track",
-        "release_date": "2020-04-03"
+        "release_date": "2020-04-03",
+        "popularity": 0
     },
     {
         "danceability": 0.679,
@@ -2945,7 +3078,8 @@
         "duration_ms": 237912,
         "time_signature": 4,
         "name": "In Your Eyes (with Doja Cat) - Remix",
-        "release_date": "2020-05-21"
+        "release_date": "2020-05-21",
+        "popularity": 66
     },
     {
         "danceability": 0.391,
@@ -2967,7 +3101,8 @@
         "duration_ms": 170573,
         "time_signature": 4,
         "name": "Privilege",
-        "release_date": "2018-03-30"
+        "release_date": "2018-03-30",
+        "popularity": 0
     },
     {
         "danceability": 0.507,
@@ -2989,7 +3124,8 @@
         "duration_ms": 211267,
         "time_signature": 4,
         "name": "Power is Power (feat. The Weeknd & Travis Scott)",
-        "release_date": "2019-04-26"
+        "release_date": "2019-04-26",
+        "popularity": 67
     },
     {
         "danceability": 0.744,
@@ -3011,7 +3147,8 @@
         "duration_ms": 179773,
         "time_signature": 4,
         "name": "Some Way",
-        "release_date": "2017-02-24"
+        "release_date": "2017-02-24",
+        "popularity": 73
     },
     {
         "danceability": 0.663,
@@ -3033,7 +3170,8 @@
         "duration_ms": 202093,
         "time_signature": 4,
         "name": "Lost in the Fire",
-        "release_date": "2019"
+        "release_date": "2019",
+        "popularity": 0
     },
     {
         "danceability": 0.792,
@@ -3055,7 +3193,8 @@
         "duration_ms": 224213,
         "time_signature": 4,
         "name": "Might Not",
-        "release_date": "2015-11-20"
+        "release_date": "2015-11-20",
+        "popularity": 71
     },
     {
         "danceability": 0.751,
@@ -3077,7 +3216,8 @@
         "duration_ms": 221968,
         "time_signature": 4,
         "name": "Reminder - Remix",
-        "release_date": "2017-08-01"
+        "release_date": "2017-08-01",
+        "popularity": 54
     },
     {
         "danceability": 0.418,
@@ -3099,7 +3239,8 @@
         "duration_ms": 208813,
         "time_signature": 4,
         "name": "Crew Love",
-        "release_date": "2011-11-15"
+        "release_date": "2011-11-15",
+        "popularity": 35
     },
     {
         "danceability": 0.581,
@@ -3121,7 +3262,8 @@
         "duration_ms": 197961,
         "time_signature": 5,
         "name": "Blinding Lights - Major Lazer Remix",
-        "release_date": "2020-09-11"
+        "release_date": "2020-09-11",
+        "popularity": 40
     },
     {
         "danceability": 0.351,
@@ -3143,7 +3285,8 @@
         "duration_ms": 184128,
         "time_signature": 3,
         "name": "Dawn FM - OPN Remix",
-        "release_date": "2022-07-08"
+        "release_date": "2022-07-08",
+        "popularity": 51
     },
     {
         "danceability": 0.624,
@@ -3165,7 +3308,8 @@
         "duration_ms": 206013,
         "time_signature": 4,
         "name": "True Colors",
-        "release_date": "2016-11-25"
+        "release_date": "2016-11-25",
+        "popularity": 67
     },
     {
         "danceability": 0.722,
@@ -3187,7 +3331,8 @@
         "duration_ms": 313547,
         "time_signature": 4,
         "name": "Low Life (feat. The Weeknd)",
-        "release_date": "2016-04-13"
+        "release_date": "2016-04-13",
+        "popularity": 75
     },
     {
         "danceability": 0.805,
@@ -3209,7 +3354,8 @@
         "duration_ms": 242983,
         "time_signature": 4,
         "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix",
-        "release_date": "2014-06-10"
+        "release_date": "2014-06-10",
+        "popularity": 79
     },
     {
         "danceability": 0.62,
@@ -3231,7 +3377,8 @@
         "duration_ms": 261239,
         "time_signature": 4,
         "name": "Blinding Lights - Chromatics Remix",
-        "release_date": "2020-09-11"
+        "release_date": "2020-09-11",
+        "popularity": 46
     },
     {
         "danceability": 0.579,
@@ -3253,7 +3400,8 @@
         "duration_ms": 202104,
         "time_signature": 4,
         "name": "Blinding Lights - Instrumental",
-        "release_date": "2020-09-11"
+        "release_date": "2020-09-11",
+        "popularity": 38
     },
     {
         "danceability": 0.694,
@@ -3275,7 +3423,8 @@
         "duration_ms": 196180,
         "time_signature": 4,
         "name": "Smile (with The Weeknd)",
-        "release_date": "2020-08-07"
+        "release_date": "2020-08-07",
+        "popularity": 60
     },
     {
         "danceability": 0.545,
@@ -3297,7 +3446,8 @@
         "duration_ms": 200127,
         "time_signature": 4,
         "name": "Heartless - Remix",
-        "release_date": "2020-04-02"
+        "release_date": "2020-04-02",
+        "popularity": 47
     },
     {
         "danceability": 0.62,
@@ -3319,7 +3469,8 @@
         "duration_ms": 261239,
         "time_signature": 4,
         "name": "Blinding Lights - Chromatics Remix",
-        "release_date": "2020-04-02"
+        "release_date": "2020-04-02",
+        "popularity": 39
     },
     {
         "danceability": 0.68,
@@ -3341,7 +3492,8 @@
         "duration_ms": 220803,
         "time_signature": 4,
         "name": "Save Your Tears - OPN Remix",
-        "release_date": "2020-04-02"
+        "release_date": "2020-04-02",
+        "popularity": 43
     },
     {
         "danceability": 0.523,
@@ -3363,7 +3515,8 @@
         "duration_ms": 165354,
         "time_signature": 4,
         "name": "Heartless - Vapor Wave Remix",
-        "release_date": "2020-04-02"
+        "release_date": "2020-04-02",
+        "popularity": 45
     },
     {
         "danceability": 0.605,
@@ -3385,7 +3538,8 @@
         "duration_ms": 238128,
         "time_signature": 4,
         "name": "After Hours - The Blaze Remix",
-        "release_date": "2020-04-02"
+        "release_date": "2020-04-02",
+        "popularity": 50
     },
     {
         "danceability": 0.458,
@@ -3407,7 +3561,8 @@
         "duration_ms": 217834,
         "time_signature": 4,
         "name": "Scared To Live - SNL Live",
-        "release_date": "2020-04-02"
+        "release_date": "2020-04-02",
+        "popularity": 42
     },
     {
         "danceability": 0.682,
@@ -3429,6 +3584,7 @@
         "duration_ms": 197961,
         "time_signature": 5,
         "name": "Blinding Lights - Major Lazer Remix",
-        "release_date": "2020-03-31"
+        "release_date": "2020-03-31",
+        "popularity": 51
     }
 ]
