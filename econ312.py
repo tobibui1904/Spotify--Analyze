@@ -22,7 +22,17 @@ with header:
     st.caption("<h1 style='text-align: center;'>Spotify Recommendation System </h1>",unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: left; color: red;'>Introduction about the project</h1>", unsafe_allow_html=True)
     st.subheader('1: Project Purposes')
-    st.markdown("""This project has 2 main parts: Analysis about the general music trend from 2010 to 2019 via Spotify and Build a simple recommendation system based on users' preferences """)
+    st.markdown("""The objective of our project is to visualize data on the songs from the Billboard Hot 100 list between 2010 and 2020. We used charts, graphs, scatterplots, and a correlation matrix to track the popularity of songs by genre, artist, and other variables defined below. These visualizations will show us the correlations between variables that would predict the perfect “recipe” for a song to be featured on the Billboard Hot 100 List between 2010 and 2020. 
+""")
+    st.markdown("""- Danceability: describes how suitable a track is for dancing based on a combination of musical elements, including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is the least danceable, and 1.0 is the most danceable.""")
+    st.markdown("""- Energy:  a measure from 0.0 to 1.0 represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale.
+""")
+    st.markdown("""- instrumentals: Predicts whether a track contains no vocals. "Ooh" and "aah" sounds are treated as instrumental in this context. Rap or spoken word tracks are clearly "vocal". The closer the instrumentals value is to 1.0, the greater likelihood the track contains no vocal content. Values above 0.5 are intended to represent instrumental tracks, but confidence is higher as the value approaches 1.0.
+""")
+    st.markdown("""- Speechiness: detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g., talk show, audiobook, poetry), the closer to 1.0 the attribute value. 
+""")
+    st.markdown("""- Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g., happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g., sad, depressed, angry) 
+""")
     st.subheader('2: Project Team Members')
     left,middle,right=st.columns(3)
         
@@ -84,10 +94,10 @@ with analysis:
     st.pyplot(fig)
     
     #Comment about the graph
-    st.write('dmm')
+    st.write('We can see that Drake topped the chart with 26 appearances following by Rihanna with 21 appearances.')
     
     # Top 10 genre 2010 - 2019
-    fig = plt.figure(figsize=(12,8))
+    fig = plt.figure(figsize=(15,8))
     dfx = pd.Series(sum([item for item in df.genres], [])).value_counts()
     dfx = dfx.to_frame()
     dfx = dfx.reset_index(level=0)
@@ -98,7 +108,7 @@ with analysis:
     st.write(fig)
     
     #Comment about the graph
-    st.write('dmm')
+    st.write("Pop showed the dominance with the first two positions on the chart (pop, dance_pop) following by rap")
 
     # Top key used
     plt.rcParams.update({'font.family': 'DejaVu Sans'})
@@ -108,12 +118,21 @@ with analysis:
     st.write(fig)
     
     #Comment about the graph
-    st.write('dmm')
+    st.write('The most key used was C♯/D♭ (140 appearances) The least used was D♯/E♭ ( <30 appearances)')
     
     # Time Signature Distribution
     fig = plt.figure(figsize=(9,7))
     plt.pie(x = df['time_signature'].value_counts(), labels = df['time_signature'].unique(), autopct='%1.1f%%')
     plt.title('Distribution of time signature', fontsize=15)
+    st.write(fig)
+    
+    #Comment about the graph
+    st.write('4/4 is the dominant time seires used (4 beats in each bar) with 95.2%')
+    
+    # Mode Distribution
+    fig = plt.figure(figsize=(9,7))
+    plt.pie(x = df['mode'].value_counts(), labels = df['mode'].unique(), autopct='%1.1f%%')
+    plt.title('Distribution of mode signature', fontsize=15)
     st.write(fig)
     
     #Comment about the graph
