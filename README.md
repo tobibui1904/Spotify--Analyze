@@ -10,6 +10,6 @@ Then run the prj.ipynb. This will have all the charts we drew. Finally run the p
 
 Note: python codes use the .csv dataset in the Files folder. Streamlit optimizes csv rather than json so we have to convert to avoid unwanted bugs.
 
-We have already deployed the website hosted by Heroku server. Additionally, we designed the web with Streamlit API by Snowflake Here is a link to it:
+We have already deployed the website hosted by Heroku server. Additionally, we designed the web with Streamlit API by Snowflake. Therefore, you don't need to run the Python code on your chosen IDE becaused it's specifically coded for Streamlit API  Here is a link to it:
 
 https://tobibui-app.herokuapp.com/?fbclid=IwAR1UaE0o3WMKtGex6rvo0C9ibTpFMN9d-qdWWvq57W0CwawHErAors3ILeg
