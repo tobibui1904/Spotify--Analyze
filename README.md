@@ -4,6 +4,8 @@ Run the try.ipynb to obtain the full dataset. This is a different script than ap
 
 I have included the json dataset in case you do not need to run the scraping script (the 1000 dataset takes ~~ 20 minutes to execute)
 
+Then run the prj.ipynb. This will have all the charts we drew. Finally run the prediction.ipynb which I used a naive Linear Regression to output my predictions for top songs in 2021 and 2022. 
+
 2. Python:
 
 Note: python codes use the .csv dataset in the Files folder. Streamlit optimizes csv rather than json so we have to convert to avoid unwanted bugs.
