@@ -6,6 +6,6 @@ I have included the json dataset in case you do not need to run the scraping scr
 
 2. Python:
 
-We have already deployed the website. Here is a link to it:
+We have already deployed the website hosted by Heroku server. Additionally, we designed the web with Streamlit API by Snowflake Here is a link to it:
 
 https://tobibui-app.herokuapp.com/?fbclid=IwAR1UaE0o3WMKtGex6rvo0C9ibTpFMN9d-qdWWvq57W0CwawHErAors3ILeg
